@@ -1,0 +1,1 @@
+"""VaultWares FastMCP server package."""
